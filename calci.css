@@ -21,6 +21,9 @@ button{
     border: 2px solid #f2f4f6;
     border-radius: 10px;
 }
+button:hover{
+    background-color: rgb(148, 14, 114);
+}
 .calculator{
     border-radius: 34px;
     padding: 19px;
